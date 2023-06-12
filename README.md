@@ -1,4 +1,4 @@
-# 호텔 도담 프로젝트  hotel dodam project\\
+# 호텔 도담 프로젝트  hotel dodam project
 
 
 ## 🖥️ 프로젝트 소개
@@ -6,12 +6,12 @@
 CRUD 중심으로 가볍게 구현한 프로젝트입니다
 
 ## 🕰️ 개발 기간
-* 23.04.21일 - 23.05.02일 총 12일
+* 23.05.15일 - 23.06.07일 총 24일
 
 ## ⚙️ 개발 환경
 - BackEnd :  `Java ee`  `JSP`  `SpringBoot`  `MySQL`
 - FrontEnd :  `HTML5`  `CSS`  `JavaScript`
-- Collaboration : `Git` `GitHub` `Collabee`
+- Collaboration : `Git` `GitHub` `JANDI`
 
 ## 📌 주요 기능
 #### 공통 기능 (로그인) - <a href="" >상세보기 - WIKI 이동</a>
