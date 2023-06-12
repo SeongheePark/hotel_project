@@ -9,6 +9,9 @@
 ## 🕰️ 개발 기간
 * 23.05.15일 - 23.06.07일 총 24일
 
+## 👨‍👨‍👧‍👦 멤버구성 (4명)
+<img src="https://github.com/SeongheePark/hotel_project/assets/122020520/8d39eb95-6732-46e6-8a51-aa00499725b2">
+
 ## ⚙️ 개발 환경
 - BackEnd :  `Java ee`  `JSP`  `SpringBoot`  `MySQL`
 - FrontEnd :  `HTML5`  `CSS`  `JavaScript`
