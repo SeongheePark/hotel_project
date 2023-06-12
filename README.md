@@ -25,7 +25,7 @@
 - 객실 및 부대시설 조회
 - 1:1 채팅 상담
 
-<img src="https://github.com/SeongheePark/hotel_project/assets/122020520/0d1723e1-909b-45a9-b53d-964835c14f44">
+
 #### MANAGER 기능
 - 한눈에 보이는 대시보드
 - 객실 및 부대시설 관리
