@@ -26,7 +26,10 @@
 
 ## 📈 ERD Diagram
 <img src="https://github.com/SeongheePark/hotel_project/assets/122020520/6b9843aa-697f-467b-9d6d-0cec804db487">
-  
+
+## 📉 깃 플로우 차트
+<img src="https://github.com/SeongheePark/spring-work1/assets/122020520/1b297264-1f5a-49ea-b4c1-46b712e4cf5a">
+
 ## 📹 유튜브 영상 바로보기
 https://youtu.be/OdbS1hERsHU
 </br>
