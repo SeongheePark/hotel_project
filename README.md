@@ -27,6 +27,10 @@
 ## 📈 ERD Diagram
 <img src="https://github.com/SeongheePark/hotel_project/assets/122020520/6b9843aa-697f-467b-9d6d-0cec804db487">
   
+## 📹 유튜브 영상 바로보기
+https://youtu.be/OdbS1hERsHU
+</br>
+</br>
 
 ## 📌 주요 기능
 
